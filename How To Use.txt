@@ -1,0 +1,7 @@
+Step 1 - Run the Application
+Step 2 - Click Load Song
+Step 3 - Select a Downloaded .mp3 or .wav file from your system
+Step 4 - Click Play to Start the Music
+Step 5 - Use Pause,Stop and Volume Slider to Control Playback
+
+(*Note* : Online or Streaming music files are not supported. Only local Audio Files of your System can be Played.)

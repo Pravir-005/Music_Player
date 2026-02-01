@@ -1,0 +1,7 @@
+Language:
+1) Python (Version 3)
+
+Libraries:
+1) Tkinter
+2) Pygame
+3) os
