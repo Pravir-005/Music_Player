@@ -16,8 +16,12 @@ This Project Allows users to load and play Downloaded Songs dierctly from their 
 - **pygame.mixer** (Audio Playback)
 
 ## Installation:
+1) Clone the Repository: (git clone https://github.com/Pravir-005/Music_Player.git)
+2) Navigate to the Project Folder: (cd Basic Music Player/)
+3) Install Dependencies: (pip install pygame)
 
 ## How it Run:
 python main.py
+
 
 ***AUTHOR- Pravir Nihar Maity***
